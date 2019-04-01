@@ -1,2 +1,9 @@
-# spring-data-jsoup-web-service
-spring-data-jsoup-web-service
+# Spring Data Jsoup Web Service
+
+### Using
+
+```java
+    String site = "siteadresi"; // site address
+    String sitePage = "/sayfa";  // site page name
+    String sitePaging = "?value=50"; // parameter if requirement
+```
