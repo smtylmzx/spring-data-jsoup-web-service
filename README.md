@@ -1,6 +1,12 @@
 # Spring Data Jsoup Web Service
 
-## Using
+- [x] Spring Data
+- [x] Scheduled Batch Job
+- [x] Jsoup
+- [ ] Spring Web
+
+
+### Using
 
 ```java
     String site = "siteadresi"; // change site address
